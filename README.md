@@ -6,9 +6,8 @@ If your project uses ESLINT under the hood with webpack, you don't need to insta
 
 ## **Javascript**
 
-    npm install -D prettier eslint  eslint-config-prettier eslint-config-standard
-    eslint-plugin-import eslint-plugin-node eslint-plugin-prettier eslint-plugin-promises eslint-plugin-react eslint-plugin-react-hooks
+    npm install -D prettier eslint eslint-config-prettier eslint-plugin-import eslint-plugin-node eslint-plugin-prettier eslint-plugin-promises eslint-plugin-react eslint-plugin-react-hooks
 
 ## **Typescript**
 
-    npm install -D   prettier eslint eslint-config-prettier eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-prettier eslint-plugin-promise eslint-plugin-react eslint-plugin-react-hooks @typescript-eslint/parser @typescript-eslint/eslint-plugin
+    npm install -D   prettier eslint eslint-config-prettier eslint-plugin-import eslint-plugin-node eslint-plugin-prettier eslint-plugin-promise eslint-plugin-react eslint-plugin-react-hooks @typescript-eslint/parser @typescript-eslint/eslint-plugin
